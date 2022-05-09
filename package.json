@@ -14,7 +14,15 @@
     "react-dom": "18.1.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.7",
     "eslint": "8.15.0",
-    "eslint-config-next": "12.1.6"
-  }
+    "eslint-config-next": "12.1.6",
+    "postcss-nested": "^5.0.6"
+  },
+  "browserslist": [
+    ">0.3%",
+    "not ie 11",
+    "not dead",
+    "not op_mini all"
+  ]
 }
